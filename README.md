@@ -1,7 +1,6 @@
-Creating a professional README file for your GitHub repository is important to help users understand your project and how to use it. Below is a template for a README file for your Deep Learning Neural Style Transfer (NST) project:
 Deep Learning Neural Style Transfer (NST)
 
-Project Logo
+
 Table of Contents
 
     Introduction
