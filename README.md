@@ -1,6 +1,6 @@
 Deep Learning Neural Style Transfer (NST)
 
-
+![](https://archive.org/download/deep-learning-with-py-torch/Deep%20Learning%20with%20PyTorch.png)
 Table of Contents
 
     Introduction
